@@ -1,3 +1,0 @@
-<?php
-// [Classes DB logic]
-?>
