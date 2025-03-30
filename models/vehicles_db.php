@@ -1,0 +1,3 @@
+<?php
+// [Vehicles DB logic]
+?>

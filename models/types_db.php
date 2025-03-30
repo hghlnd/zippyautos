@@ -1,0 +1,3 @@
+<?php
+// [Types DB logic]
+?>

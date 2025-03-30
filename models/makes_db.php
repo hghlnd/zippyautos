@@ -1,0 +1,3 @@
+<?php
+// [Makes DB logic]
+?>
